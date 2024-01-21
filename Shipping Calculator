@@ -1,4 +1,4 @@
-weight = 75
+weight = int(input())
 cost = 0
 premium_ground = 125.00
 # Ground Shipping
